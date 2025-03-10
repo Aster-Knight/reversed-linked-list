@@ -38,6 +38,11 @@ Para evaluar el funcionamiento de su código, deberá realizar lo siguiente en e
 
 1) Crear una instancia de Linked List y agregar 10 elementos en ella.
 2) Imprimir la lista original.
-2) Utilizar la función **Reverse with Stack** para crear una nueva lista invertida a partir de la lista original.
 3) Utilizar el método **Reverse Inplace** para invertir la lista original.
-4) Imprimir ambas listas resultantes para evaluar que sean iguales.
+
+##Results
+
+![Console Results](https://github.com/Aster-Knight/reversed-linked-list/blob/7b314615c3c060c0e4d76e8f4f35c1a13e9d30e8/imagenes/resultados%20en%20consola.png)
+
+
+
